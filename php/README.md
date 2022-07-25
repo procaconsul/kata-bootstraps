@@ -1,4 +1,4 @@
-phpunit setup
+ phpunit setup
 ==========
 
 This is a simple bootstrap project for PHP with phpunit
